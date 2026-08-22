@@ -37,8 +37,6 @@ An automated pipeline that transcribes meeting audio/video and generates action-
    streamlit run app.py
 
 
-**Demo Video**
-Watch the 1-minute demo walkthrough here
+**Demo Video (Watch the 1-minute demo walkthrough here)
 
 
-Once you save that, your repository is completely set up. All that's left is recording your quick demo video, replacing `YOUR_VIDEO_LINK_HERE` with the actual link, and submitting your form
