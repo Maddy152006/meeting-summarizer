@@ -37,6 +37,6 @@ An automated pipeline that transcribes meeting audio/video and generates action-
    streamlit run app.py
 
 
-**Demo Video** (Watch the 1-minute demo walkthrough here) :- https://www.loom.com/share/85df7554f3b14005bb2787a674218010
+**Demo Video** (Watch the 3-minute demo walkthrough here):- https://www.loom.com/share/85df7554f3b14005bb2787a674218010
 
 
